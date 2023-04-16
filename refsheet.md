@@ -1,6 +1,6 @@
 # Refsheet
 
-![dunerefsheet](https://github.com/Mizosu97/dune/blob/main/dune_labeled.png)
+![dunerefsheet](https://github.com/Mizosu97/dune/blob/main/_dune_chart_labeled.png)
 
 Dune's refsheet is split into 3 main sections, being **L**, **B**, and **A**.
 
